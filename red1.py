@@ -22,7 +22,7 @@ try:
         os.system('pip2 install requests lolcat')
 except ImportError:
 	os.system("pip2 install requests")
-	os.system("python2 BXB.py")
+	os.system("python2 red1.py")
 
 from os import system
 from time import sleep
